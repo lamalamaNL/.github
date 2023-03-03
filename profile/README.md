@@ -9,4 +9,4 @@ Are you a talented, ambitious and curious front-end developer looking for a new 
 * Recent projects we created are Jimmy Nelson, Cinekid, treebytree, This is Dash.
 * We continuously work on projects like Sneaker District, King Essentials, Bisque Golf and Doing Goods.
 
-[Read more](https://jobs.lamalama.nl/front-end-developer/en)
+[Read more about this job](https://jobs.lamalama.nl/front-end-developer/en)
