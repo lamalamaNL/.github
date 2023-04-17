@@ -15,3 +15,4 @@ Are you a talented, ambitious and curious front-end developer looking for a new 
 Are you a genius, inventive and flexible back-end developer looking for a new opportunity to apply your skills? Here we are! At Lama Lama, a creative digital agency, we are currently searching for a passionate and skilled Back-end developer to join our team.
 
 * We continuously work on projects like [Sneaker District](https://www.sneakerdistrict.com/), [Justdiggit](https://justdiggit.org/) and [Doing Goods](https://www.doing-goods.com/).
+* Our Stack is mainly focused on the Laravel ecosystem (Laravel, Horizon, Scout, Passport, Pint, Pest)
